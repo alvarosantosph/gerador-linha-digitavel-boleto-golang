@@ -1,4 +1,5 @@
-# Gerador de Linha Digitável de Boleto Bancário: Santander + Caixa
+# Gerador de Linha Digitável de Boleto Bancário
+Santander + Caixa Econômica + Bradesco + Banco do Brasil
 
 ```sh
 Plataforma de Desenvolvimento - GoLang
