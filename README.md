@@ -6,7 +6,7 @@ Plataforma de Desenvolvimento - GoLang
 ```
 
 <div align="left">
-    <img src="https://img.shields.io/badge/-GoLang-skyblue?style=for-the-badge" alt="Go Lang">
+    <img src="https://img.shields.io/badge/-Go Lang-skyblue?style=for-the-badge" alt="Go Lang">
 </div>
 
 ### Desenvolvedor:
