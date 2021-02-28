@@ -5,6 +5,12 @@ Santander + Caixa Econômica + Bradesco + Banco do Brasil
 Plataforma de Desenvolvimento - GoLang
 ```
 
+<div align="left">
+    <img src="https://img.shields.io/badge/-GoLang-skyblue?style=for-the-badge" alt="Go Lang">
+</div>
+
+<br />
+
 ### Desenvolvedor:
 
 * Alvaro Santos
