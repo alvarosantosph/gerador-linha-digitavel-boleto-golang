@@ -9,8 +9,6 @@ Plataforma de Desenvolvimento - GoLang
     <img src="https://img.shields.io/badge/-GoLang-skyblue?style=for-the-badge" alt="Go Lang">
 </div>
 
-<br />
-
 ### Desenvolvedor:
 
 * Alvaro Santos
